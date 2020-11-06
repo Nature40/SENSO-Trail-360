@@ -2,29 +2,31 @@
 
 ## Story: Hardware (Phillip, Max, Nico)
 ### Sub-Story: Tablets  
+
     - [ ] Anforerungen an Tablets klären (⏰ 01.02.2021)
+
     - [ ] Beschaffung von 15 Tablets
+
 ### Sub-Story: Instalationen vor Ort
-    * Installation für Station 2
-    - [ ] Art der Installation(en) klären
-    - [ ] Material beschaffen
-    - [ ] Installieren und testen
-    * Installation für Station 5
-    - [ ] Art der Installation(en) kären 
-    - [ ] Material beschaffen
-    - [ ] Installieren und testen
+..* Installation für Station 2
+- [ ] Art der Installation(en) klären
+- [ ] Material beschaffen
+- [ ] Installieren und testen
+..* Installation für Station 5
+- [ ] Art der Installation(en) kären 
+- [ ] Material beschaffen
+- [ ] Installieren und testen
 
 ## Story: Skript und Inhalte
 
-    *  Skriptinhalte App-Struktur anpassen
-    - [ ] Intro 
-    - [ ] Station 1
-    - [ ] Station 2
-    - [ ] Station 3
-    - [ ] Station 4
-    - [ ] Station 5
+..* Skriptinhalte App-Struktur anpassen
+- [ ] Station 1
+- [ ] Station 2
+- [ ] Station 3
+- [ ] Station 4
+- [ ] Station 5
 
-    * Skriptinhalte ans Forschungsziel (Transdisziplinäre Kentnissvermittlung) anpassen
+     Skriptinhalte ans Forschungsziel (Transdisziplinäre Kenntissvermittlung) anpassen
     - [ ] Intro 
     - [ ] Station 1
     - [ ] Station 2
