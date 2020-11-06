@@ -8,12 +8,12 @@ Study, BNE, content (science, technology, ecology, geography, nature 4.0) school
 
 ## Story 1: Hardware (⏰ xx.xx.202x) (Phillip, Max, Nico)
 
-* [] figuring out what requirements must be met
+- [ ] figuring out what requirements must be met
 
 ## Story 2: App development
 
 * Concept 
-    [] CommunicationMenu musst be completed
+    - [ ] CommunicationMenu musst be completed
     
 * sciptadaption
 
