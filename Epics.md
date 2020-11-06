@@ -10,20 +10,24 @@ Study, BNE, content (science, technology, ecology, geography, nature 4.0) school
 - 
 - [ ] figuring out what requirements must be met
 ## Story: Skript und Inhalte
-- [ ] Skritpinhalte
-- [ ] Skriptinhalte Station 1 an App-Struktur anpassen
-- [ ] Skriptinhalte Station 1 ans Forschungsziel (Transdisziplinäre Kentnissvermittlung) anpassen
-- [ ] Skriptinhalte Station 2 an App-Struktur anpassen
-- [ ] Skriptinhalte Station 2 ans Forschungsziel (Transdisziplinäre Kentnissvermittlung) anpassen
-- [ ] Skriptinhalte Station 3 an App-Struktur anpassen
-- [ ] Skriptinhalte Station 3 ans Forschungsziel (Transdisziplinäre Kentnissvermittlung) anpassen
-- [ ] Skriptinhalte Station 4 an App-Struktur anpassen
-- [ ] Skriptinhalte Station 4 ans Forschungsziel (Transdisziplinäre Kentnissvermittlung) anpassen
-- [ ] Skriptinhalte Station 5 an App-Struktur anpassen
-- [ ] Skriptinhalte Station 5 ans Forschungsziel (Transdisziplinäre Kentnissvermittlung) anpassen
-- [ ] Skriptinhalte Station 6 an App-Struktur anpassen
-- [ ] Skriptinhalte Station 6 ans Forschungsziel (Transdisziplinäre Kentnissvermittlung) anpassen
 
+- [ ] Skriptinhalte App-Struktur anpassen
+    -[ ]
+    -[ ] Station 1
+    -[ ] Station 2
+    -[ ] Station 3
+    -[ ] Station 4
+    -[ ] Station 5
+    -[ ] Station 6
+- [ ] Skriptinhalte ans Forschungsziel (Transdisziplinäre Kentnissvermittlung) anpassen
+    -[ ] Station 1
+    -[ ] Station 2
+    -[ ] Station 3
+    -[ ] Station 4
+    -[ ] Station 5
+    -[ ] Station 6
+
+-[ ] Inhalt Station 2
 ## Story: App development
 
 * Concept 
@@ -44,3 +48,4 @@ Study, BNE, content (science, technology, ecology, geography, nature 4.0) school
     * people for recording voices must be found
     * and so on...
 * offline availabilty
+
