@@ -153,26 +153,19 @@ Juli
 
 ## Story: Audioaufnahmen
 
-    * Station 1
-    * Station 0 (Intro)
-
-        * Sprechrollen
-
+* Station 1
+* Station 0 (Intro)
+    * Sprechrollen
     - [ ] Professor
-
     - [ ] 2x Studis
 
 ## Story: Station 0
 
 ## Story: SENSO-Trail360
-
-    * Tutorial
-
-    * App einarbeiten
-
-    * Panoramen einfügen
-
-    * Detailaufnahmen von Froschungsgeräten einfügen
+* Tutorial
+* App einarbeiten
+* Panoramen einfügen
+* Detailaufnahmen von Froschungsgeräten einfügen
 
 
 ## Backlog
