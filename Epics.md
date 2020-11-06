@@ -20,12 +20,13 @@ Study, BNE, content (science, technology, ecology, geography, nature 4.0) school
     - [ ] Station 5
     - [ ] Station 6
 - [ ] Skriptinhalte ans Forschungsziel (Transdisziplinäre Kentnissvermittlung) anpassen
-    -[ ] Station 1
-    -[ ] Station 2
-    -[ ] Station 3
-    -[ ] Station 4
-    -[ ] Station 5
-    -[ ] Station 6
+    - [ ] Station 0
+    - [ ] Station 1
+    - [ ] Station 2
+    - [ ] Station 3
+    - [ ] Station 4
+    - [ ] Station 5
+    - [ ] Station 6
 
 -[ ] Inhalt Station 2
 ## Story: App development
