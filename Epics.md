@@ -17,9 +17,8 @@ Juli
 
 ### Sub-Story: Tablets  
 
-    - [ ] Anforerungen an Tablets klären (Nico)(⏰ 01.02.2021)
-
-    - [ ] Beschaffung von 15 Tablets (Nico)
+- [ ] Anforerungen an Tablets klären (Nico)(⏰ 01.02.2021)
+- [ ] Beschaffung von 15 Tablets (Nico)
 
 
 ### Sub-Story: Instalationen vor Ort
