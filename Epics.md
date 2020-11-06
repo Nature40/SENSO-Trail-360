@@ -1,4 +1,5 @@
-# Epic: Evaluations-Studie zum Bildungskonzept "SENSO-Trail" (Carina, Phillip, Max, Nico)
+# Epic: Evaluations-Studie zum Bildungskonzept "SENSO-Trail" 
+(Carina, Phillip, Max, Nico)
 
 ## Story: Zeitplan
 
@@ -6,9 +7,7 @@ November
 Dezember ->| Stationen überarbeiten / -> Audioaufnahmen
 Januar
 Februar
------------------------------------
 März
------------------------------------
 April->| SENSO-Trail360
 Mai -> 2. Paper mit Ergebnissen aus dem SENSO-Trail360
 Juni
