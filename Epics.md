@@ -8,35 +8,58 @@
     - [ ] Beschaffung von 15 Tablets
 
 ### Sub-Story: Instalationen vor Ort
-..* Installation für Station 2
-- [ ] Art der Installation(en) klären
-- [ ] Material beschaffen
-- [ ] Installieren und testen
-..* Installation für Station 5
-- [ ] Art der Installation(en) kären 
-- [ ] Material beschaffen
-- [ ] Installieren und testen
+* Installation für Station 2
+
+    - [ ] Art der Installation(en) klären
+
+    - [ ] Material beschaffen
+
+    - [ ] Installieren und testen
+
+- Installation für Station 5
+
+    - [ ] Art der Installation(en) kären 
+
+    - [ ] Material beschaffen
+
+    - [ ] Installieren und testen
+
 
 ## Story: Skript und Inhalte
 
 ..* Skriptinhalte App-Struktur anpassen
-- [ ] Station 1
-- [ ] Station 2
-- [ ] Station 3
-- [ ] Station 4
-- [ ] Station 5
 
-     Skriptinhalte ans Forschungsziel (Transdisziplinäre Kenntissvermittlung) anpassen
-    - [ ] Intro 
     - [ ] Station 1
+
     - [ ] Station 2
+
     - [ ] Station 3
+
     - [ ] Station 4
+
     - [ ] Station 5
 
 
-- [ ] Inhalt Station 2
-- [ ] Inhalt Station 6
+     Skriptinhalte ans Forschungsziel (Transdisziplinäre Kenntissvermittlung) anpassen
+
+    - [ ] Intro 
+
+    - [ ] Station 1
+
+    - [ ] Station 2
+
+    - [ ] Station 3
+
+    - [ ] Station 4
+
+    - [ ] Station 5
+
+
+
+    - [ ] Inhalt Station 2
+
+    - [ ] Inhalt Station 6
+
 ## Story: App Entwicklung
 
 * Konzept
@@ -47,8 +70,11 @@
 * Layout überarbeiten
 
 * Station 6 Umweltmodell (Nico, Marvin)
+
     - [ ] Machbarkeit klären
+
     - [ ] 3D Lidar Punktwolke editierbar?
+
     
 ### Sub-Story: Speicherung und Verfügbarkeit von Daten in und über die App 
  * Essentielle Daten (funktionsrelevanter Code der App)
@@ -58,15 +84,15 @@
 
     * Station 1 TreeTalker
 
-        - [ ] aktuelle Saftfluss Daten abrufen
+    - [ ] aktuelle Saftfluss Daten abrufen
 
-        - [ ] Diagramm der Saftfluss Tag/Woche/Monat/Jahr abrufen
+    - [ ] Diagramm der Saftfluss Tag/Woche/Monat/Jahr abrufen
 
     * Station 2 Mirkoklima
 
-        - [ ] aktuelle Temperatur/Luftfeuchte abrufen
+    - [ ] aktuelle Temperatur/Luftfeuchte abrufen
 
-        - [ ] Diagramm der Temperatur/Luftfeuchte Tag/Woche/Monat/Jahr abrufen
+    - [ ] Diagramm der Temperatur/Luftfeuchte Tag/Woche/Monat/Jahr abrufen
 
 
 
