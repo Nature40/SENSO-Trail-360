@@ -135,15 +135,15 @@ Juli
 
     * Station 1 TreeTalker
 
-    - [ ] aktuelle Saftfluss Daten abrufen
+     - [ ] aktuelle Saftfluss Daten abrufen
 
-    - [ ] Diagramm der Saftfluss Tag/Woche/Monat/Jahr abrufen
+     - [ ] Diagramm der Saftfluss Tag/Woche/Monat/Jahr abrufen
 
     * Station 2 Mirkoklima
 
-    - [ ] aktuelle Temperatur/Luftfeuchte abrufen
+     - [ ] aktuelle Temperatur/Luftfeuchte abrufen
 
-    - [ ] Diagramm der Temperatur/Luftfeuchte Tag/Woche/Monat/Jahr abrufen
+     - [ ] Diagramm der Temperatur/Luftfeuchte Tag/Woche/Monat/Jahr abrufen
 
 
 * Karte (Nico)
@@ -156,8 +156,8 @@ Juli
 * Station 1
 * Station 0 (Intro)
     * Sprechrollen
-    - [ ] Professor
-    - [ ] 2x Studis
+     - [ ] Professor
+     - [ ] 2x Studis
 
 ## Story: Station 0
 
