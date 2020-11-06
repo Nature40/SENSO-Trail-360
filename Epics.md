@@ -1,48 +1,84 @@
 # Epic: Evaluations-Studie zum Bildungskonzept "SENSO-Trail" (Carina, Phillip, Max, Nico)
-Study, BNE, content (science, technology, ecology, geography, nature 4.0) school class, privded tablets, app, 
 
-#Abstract:
+## Story: Hardware (Phillip, Max, Nico)
+### Sub-Story: Tablets  
+    - [ ] Anforerungen an Tablets klären (⏰ 01.02.2021)
+    - [ ] Beschaffung von 15 Tablets
+### Sub-Story: Instalationen vor Ort
+    * Installation für Station 2
+    - [ ] Art der Installation(en) klären
+    - [ ] Material beschaffen
+    - [ ] Installieren und testen
+    * Installation für Station 5
+    - [ ] Art der Installation(en) kären 
+    - [ ] Material beschaffen
+    - [ ] Installieren und testen
 
-* knowledge of science project nature 4.0 gets imparted via a fictinol AI named SENSI
-* the app can access and display actual data of nature 4.0 messure insturments
-
-## Story: Hardware (⏰ xx.xx.202x) (Phillip, Max, Nico)
-- 
-- [ ] figuring out what requirements must be met
 ## Story: Skript und Inhalte
 
-- [ ] Skriptinhalte App-Struktur anpassen
-    - [ ] Station 0
+    *  Skriptinhalte App-Struktur anpassen
+    - [ ] Intro 
     - [ ] Station 1
     - [ ] Station 2
     - [ ] Station 3
     - [ ] Station 4
     - [ ] Station 5
-    - [ ] Station 6
-- [ ] Skriptinhalte ans Forschungsziel (Transdisziplinäre Kentnissvermittlung) anpassen
-    - [ ] Station 0
+
+    * Skriptinhalte ans Forschungsziel (Transdisziplinäre Kentnissvermittlung) anpassen
+    - [ ] Intro 
     - [ ] Station 1
     - [ ] Station 2
     - [ ] Station 3
     - [ ] Station 4
     - [ ] Station 5
-    - [ ] Station 6
 
--[ ] Inhalt Station 2
-## Story: App development
 
-* Concept 
+- [ ] Inhalt Station 2
+- [ ] Inhalt Station 6
+## Story: App Entwicklung
+
+* Konzept
     - [ ] CommunicationMenu musst be completed
     
-* sciptadaption
+* Vervollständigung (Konzept für alle Station vervielfältigen)
+    
+* Layout überarbeiten
+
+* Station 6 Umweltmodell (Nico, Marvin)
+    - [ ] Machbarkeit klären
+    - [ ] 3D Lidar Punktwolke editierbar?
+    
+### Sub-Story: Speicherung und Verfügbarkeit von Daten in und über die App 
+ * Essentielle Daten (funktionsrelevanter Code der App)
+    - [ ] Lauffähigkeit der lokal gespeicherten App auf projekteigenen Tablets prüfen (Nico)
+
+* Datenübertragung Natur 4.0 Datenbank -> App
+
+    * Station 1 TreeTalker
+
+        - [ ] aktuelle Saftfluss Daten abrufen
+
+        - [ ] Diagramm der Saftfluss Tag/Woche/Monat/Jahr abrufen
+
+    * Station 2 Mirkoklima
+
+        - [ ] aktuelle Temperatur/Luftfeuchte abrufen
+
+        - [ ] Diagramm der Temperatur/Luftfeuchte Tag/Woche/Monat/Jahr abrufen
+
+
+
+
 
 ## Story: Audiorecordings
 
 
 
     * Station 1
+    * Station 0 (Intro)
 
 ## Story: Station 0
+
 ## Backlog
 
 * Story: Station 0
