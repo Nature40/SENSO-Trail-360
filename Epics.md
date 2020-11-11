@@ -3,15 +3,17 @@
 
 ## Story: Zeitplan
 
-November
-Dezember ->| Stationen überarbeiten / -> Audioaufnahmen
-Januar
-Februar
-März
-April->| SENSO-Trail360
-Mai -> 2. Paper mit Ergebnissen aus dem SENSO-Trail360
-Juni
-Juli
+2020
+11
+12 ->| Stationen überarbeiten / -> Audioaufnahmen
+2021
+1
+2
+3
+4->| SENSO-Trail360
+5 -> 2. Paper mit Ergebnissen aus dem SENSO-Trail360
+6
+7
 
 ## Story: Hardware (Phillip, Max, Nico)
 
