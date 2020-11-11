@@ -54,7 +54,9 @@ Juli
 
     - [ ] Skriptinhalte App-Struktur anpassen
 
-    - [ ] Skriptinhalte ans Forschungsziel (Transdisziplinäre Kenntissvermittlung) anpassen
+    - [ ] Skriptinhalte von Lars, Martin oder Nico(?) prüfen und ggf. korrigieren lassen
+        - [ ] Orte auf der Welt wo TreeTalker noch eingesetzt werden (TT-Netzwerk) - Phillip, Nico, Martin, (Lars)
+        - [ ] Technische Funktionsbeschreibungen (didaktisch überarbeitet) auf fachliche Korrektheit prüfen lassen - Phillip, Martin, (Lars)
 
     - [ ] Klärung von Methoden und Integration von Interaktionselementen
    
@@ -67,9 +69,16 @@ Juli
     - [ ] Skriptinhalte App-Struktur anpassen
 
     - [ ] Ideen für Installation sammeln
+        - [ ] Information zur Funktion der (neuen) Mikroklimamessstationen - Chris/Nico
+	        - [ ] Einholen (Phillip, Max)
+            - [ ] Lerneiheit überarbeiten (Phillip)
+    
+    - [ ] Klärung von Methoden und Integration von Interaktionselementen
 
     - [ ] Skriptinhalte ans Forschungsziel (Transdisziplinäre Kenntissvermittlung) anpassen
-
+   
+    - [ ] Technische Funktionsbeschreibungen (didaktisch überarbeitet) auf fachliche Korrektheit prüfen lassen - Phillip, Chris, (Nico)
+    
     * Mikroklima daten (Nico, (Chris))
 
 * Station 3 Belebte Umwelt
@@ -77,8 +86,10 @@ Juli
     - [ ] Skriptinhalte App-Struktur anpassen
 
     - [ ] Skriptinhalte ans Forschungsziel (Transdisziplinäre Kenntissvermittlung) anpassen
-
-    - [ ] Klärung von Art und Integration gewählter Methoden x
+    
+    - [ ] Technische Funktionsbeschreibungen (didaktisch überarbeitet) auf fachliche Korrektheit prüfen lassen - Phillip, Jannis
+    
+    - [ ] Klärung von Methoden und Integration von Interaktionselementen
 
     * Fledermausdaten (Jannis)
 
@@ -87,8 +98,10 @@ Juli
     - [ ] Skriptinhalte App-Struktur anpassen
 
     - [ ] Skriptinhalte ans Forschungsziel (Transdisziplinäre Kenntissvermittlung) anpassen
+    
+    - [ ] Technische Funktionsbeschreibungen (didaktisch überarbeitet) auf fachliche Korrektheit prüfen lassen - Phillip, Nico, (Jonas, Sven)
 
-    - [ ] Klärung von Art und Integration gewählter Methoden 
+    - [ ] Klärung von Methoden und Integration von Interaktionselementen 
 
     * Trainingsbilder von Fotofallen (Nico)
 
@@ -98,7 +111,9 @@ Juli
 
     - [ ] Skriptinhalte ans Forschungsziel (Transdisziplinäre Kenntissvermittlung) anpassen
 
-    - [ ] Klärung von Art und Integration gewählter Methoden
+    - [ ] Klärung von Methoden und Integration von Interaktionselementen
+    
+    - [ ] Technische Funktionsbeschreibungen (didaktisch überarbeitet) auf fachliche Korrektheit prüfen lassen - Phillip, Nico, Marvin
 
     * Drohnenaufnahmen, Satellitenbilder (Marvin)
 
@@ -106,6 +121,8 @@ Juli
 *  Station 6
 
     - [ ] Ideen für Visualisierungsmöglichkeiten eines virtuellen Waldmodells sammeln (Nico und Marvin)
+    
+    - [ ] Technische Funktionsbeschreibungen (didaktisch überarbeitet) auf fachliche Korrektheit prüfen lassen - Phillip, Nico, Chris, Thomas, ?
 
 
 * Station 0 Intro
@@ -113,7 +130,7 @@ Juli
 
 * Konzept
 
-    - [ ] CommunicationMenu musst be completed
+    - [ ] Kommunikationsmenü mus fertiggestellt werden
 
     
 * Vervollständigung (Konzept für alle Station vervielfältigen)
