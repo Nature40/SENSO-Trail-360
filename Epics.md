@@ -27,7 +27,7 @@
 * Installation für Station 2
 
     - [ ] Art der Installation(en) klären
-    	* Vorschlag: Zwei möglichst simple Digitalanzeigen (mit je Thermo & Hygro) auf Sichthöhe am Baum. Ein Gerät hat den Sensor direkt verbaut und das Andere ist übe rin Kable mit einem Sensor in 15-20m Höhe in der Baumkrone verbunden. 
+    	* Vorschlag: Zwei möglichst simple Digitalanzeigen (mit je Thermo & Hygro) auf Sichthöhe am Baum. Ein Gerät hat den Sensor direkt verbaut und das Andere ist übe rin Kabel mit einem Sensor in 15-20m Höhe in der Baumkrone verbunden. 
 
     - [ ] Material beschaffen
 
@@ -131,6 +131,8 @@
 * Station 0 Intro
 ## Story: App Entwicklung
 
+- [ ] Tastatur zum "Daten-Upload" via JavaScript einfügen? (Nico)
+
 * Konzept
 
     - [ ] Kommunikationsmenü mus fertiggestellt werden
@@ -146,7 +148,12 @@
 
     - [ ] 3D Lidar Punktwolke editierbar?
 
+### Sub-Story: Testlauf Station 0 und 1 
 
+	- [ ] Testkriterien Festlegen
+	- [ ] Testpersonen finden
+	- [ ] Testermin finden
+	
 ### Sub-Story: Speicherung und Verfügbarkeit von Daten in und über die App 
  * Essentielle Daten (funktionsrelevanter Code der App)
 
