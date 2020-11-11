@@ -17,14 +17,15 @@ Juli
 
 ### Sub-Story: Tablets  
 
-- [ ] Anforerungen an Tablets klären (Nico)(⏰ 01.02.2021)
+- [ ] Anforderungen an Tablets klären (Nico)(⏰ 01.02.2021)
 - [ ] Beschaffung von 15 Tablets (Nico)
 
 
-### Sub-Story: Instalationen vor Ort
+### Sub-Story: Instalationen vor im Wald
 * Installation für Station 2
 
     - [ ] Art der Installation(en) klären
+    	* Vorschlag: Zwei möglichst simple Digitalanzeigen (mit je Thermo & Hygro) auf Sichthöhe am Baum. Ein Gerät hat den Sensor direkt verbaut und das Andere ist übe rin Kable mit einem Sensor in 15-20m Höhe in der Baumkrone verbunden. 
 
     - [ ] Material beschaffen
 
