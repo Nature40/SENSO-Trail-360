@@ -62,6 +62,8 @@
         - [ ] Technische Funktionsbeschreibungen (didaktisch überarbeitet) auf fachliche Korrektheit prüfen lassen - Phillip, Martin, (Lars)
 
     - [ ] Klärung von Methoden und Integration von Interaktionselementen
+    	- [ ] Erklärung zu Dendromenterband verfassen - Phillip, (Dietrich Göttlicher)
+	- [ ] Erklärende Animation für Abschluss in UP1 erstellen - Phillip
    
     - [x] Skriptinhalte ans Forschungsziel (Transdisziplinäre Kenntissvermittlung) anpassen
    
