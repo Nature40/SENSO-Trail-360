@@ -56,9 +56,11 @@ Juli
 
     - [ ] Skriptinhalte ans Forschungsziel (Transdisziplinäre Kenntissvermittlung) anpassen
 
-    - [ ] Klärung von Art und Integration gewählter Methoden
-
-    *Saftflussdaten (Nico)
+    - [ ] Klärung von Methoden und Integration von Interaktionselementen
+   
+    - [x] Skriptinhalte ans Forschungsziel (Transdisziplinäre Kenntissvermittlung) anpassen
+   
+   * Saftflussdaten (Nico)
 
 * Station 2 Unbelebte Umwelt (⏰ 18.11.2020)
 
