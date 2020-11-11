@@ -66,6 +66,8 @@
 	- [ ] Erklärende Animation für Abschluss in UP1 erstellen - Phillip
    
     - [x] Skriptinhalte ans Forschungsziel (Transdisziplinäre Kenntissvermittlung) anpassen
+    - [ ] Fertige Skriptteile an Bella zur Aufnahme weiterleiten - Phillip
+    - [ ] Quizfragen für Station 1 Formulieren - Phillip
    
    * Saftflussdaten (Nico)
 
