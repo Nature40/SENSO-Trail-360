@@ -19,8 +19,8 @@
 
 ### Sub-Story: Tablets  
 
-- [ ] Anforderungen an Tablets klären (Nico)(⏰ 01.02.2021)
-- [ ] Beschaffung von 15 Tablets (Nico)
+- [ ] Anforderungen an Tablets klären <- Nico(⏰ 01.02.2021)
+- [ ] Beschaffung von 15 Tablets <- Nico
 
 
 ### Sub-Story: Instalationen vor im Wald
@@ -58,35 +58,35 @@
     - [ ] Skriptinhalte App-Struktur anpassen
 
     - [ ] Skriptinhalte von Lars, Martin oder Nico(?) prüfen und ggf. korrigieren lassen
-        - [ ] Orte auf der Welt wo TreeTalker noch eingesetzt werden (TT-Netzwerk) - Phillip, Nico, Martin, (Lars)
-        - [ ] Technische Funktionsbeschreibungen (didaktisch überarbeitet) auf fachliche Korrektheit prüfen lassen - Phillip, Martin, (Lars)
+        - [ ] Orte auf der Welt wo TreeTalker noch eingesetzt werden (TT-Netzwerk) <- Phillip, Nico, Martin, (Lars)
+        - [ ] Technische Funktionsbeschreibungen (didaktisch überarbeitet) auf fachliche Korrektheit prüfen lassen <- Phillip, Martin, (Lars)
 
     - [ ] Klärung von Methoden und Integration von Interaktionselementen
     	- [ ] Erklärung zu Dendromenterband verfassen - Phillip, (Dietrich Göttlicher)
-	- [ ] Erklärende Animation für Abschluss in UP1 erstellen - Phillip
+	- [ ] Erklärende Animation für Abschluss in UP1 erstellen <- Phillip
    
     - [x] Skriptinhalte ans Forschungsziel (Transdisziplinäre Kenntissvermittlung) anpassen
-    - [ ] Fertige Skriptteile an Bella zur Aufnahme weiterleiten - Phillip
-    - [ ] Quizfragen für Station 1 Formulieren - Phillip
+    - [ ] Fertige Skriptteile an Bella zur Aufnahme weiterleiten <- Phillip
+    - [ ] Quizfragen für Station 1 Formulieren <- Phillip
    
-   * Saftflussdaten (Nico)
+   * Saftflussdaten <- Nico
 
 * Station 2 Unbelebte Umwelt (⏰ 18.11.2020)
 
     - [ ] Skriptinhalte App-Struktur anpassen
 
     - [ ] Ideen für Installation sammeln
-        - [ ] Information zur Funktion der (neuen) Mikroklimamessstationen - Chris/Nico
-	        - [ ] Einholen (Phillip, Max)
-            - [ ] Lerneiheit überarbeiten (Phillip)
+        - [ ] Information zur Funktion der (neuen) Mikroklimamessstationen <- Chris/Nico
+	    - [ ] Einholen <- Phillip, Max
+            - [ ] Lerneiheit überarbeiten <- Phillip
     
     - [ ] Klärung von Methoden und Integration von Interaktionselementen
 
     - [ ] Skriptinhalte ans Forschungsziel (Transdisziplinäre Kenntissvermittlung) anpassen
    
-    - [ ] Technische Funktionsbeschreibungen (didaktisch überarbeitet) auf fachliche Korrektheit prüfen lassen - Phillip, Chris, (Nico)
+    - [ ] Technische Funktionsbeschreibungen (didaktisch überarbeitet) auf fachliche Korrektheit prüfen lassen <- Phillip, Chris, (Nico)
     
-    * Mikroklima daten (Nico, (Chris))
+    * Mikroklima daten <- Nico, (Chris)
 
 * Station 3 Belebte Umwelt
 
@@ -94,11 +94,11 @@
 
     - [ ] Skriptinhalte ans Forschungsziel (Transdisziplinäre Kenntissvermittlung) anpassen
     
-    - [ ] Technische Funktionsbeschreibungen (didaktisch überarbeitet) auf fachliche Korrektheit prüfen lassen - Phillip, Jannis
+    - [ ] Technische Funktionsbeschreibungen (didaktisch überarbeitet) auf fachliche Korrektheit prüfen lassen <- Phillip, Jannis
     
     - [ ] Klärung von Methoden und Integration von Interaktionselementen
 
-    * Fledermausdaten (Jannis)
+    * Fledermausdaten <- Jannis
 
 * Station 4 Maschinelles Lernen
 
@@ -106,11 +106,11 @@
 
     - [ ] Skriptinhalte ans Forschungsziel (Transdisziplinäre Kenntissvermittlung) anpassen
     
-    - [ ] Technische Funktionsbeschreibungen (didaktisch überarbeitet) auf fachliche Korrektheit prüfen lassen - Phillip, Nico, (Jonas, Sven)
+    - [ ] Technische Funktionsbeschreibungen (didaktisch überarbeitet) auf fachliche Korrektheit prüfen lassen <- Phillip, Nico, (Jonas, Sven)
 
     - [ ] Klärung von Methoden und Integration von Interaktionselementen 
 
-    * Trainingsbilder von Fotofallen (Nico)
+    * Trainingsbilder von Fotofallen <- Nico
 
 * Station 5 Fernerkundung
 
@@ -120,22 +120,23 @@
 
     - [ ] Klärung von Methoden und Integration von Interaktionselementen
     
-    - [ ] Technische Funktionsbeschreibungen (didaktisch überarbeitet) auf fachliche Korrektheit prüfen lassen - Phillip, Nico, Marvin
+    - [ ] Technische Funktionsbeschreibungen (didaktisch überarbeitet) auf fachliche Korrektheit prüfen lassen <- Phillip, Nico, Marvin
 
-    * Drohnenaufnahmen, Satellitenbilder (Marvin)
+    * Drohnenaufnahmen, Satellitenbilder <- Marvin
 
 
 *  Station 6
 
-    - [ ] Ideen für Visualisierungsmöglichkeiten eines virtuellen Waldmodells sammeln (Nico und Marvin)
+    - [ ] Ideen für Visualisierungsmöglichkeiten eines virtuellen Waldmodells sammeln <- Nico und Marvin
     
-    - [ ] Technische Funktionsbeschreibungen (didaktisch überarbeitet) auf fachliche Korrektheit prüfen lassen - Phillip, Nico, Chris, Thomas, ?
+    - [ ] Technische Funktionsbeschreibungen (didaktisch überarbeitet) auf fachliche Korrektheit prüfen lassen <- Phillip, Nico, Chris, Thomas, ?
 
 
 * Station 0 Intro
 ## Story: App Entwicklung
 
-- [ ] Tastatur zum "Daten-Upload" via JavaScript einfügen? (Nico)
+- [ ] Tastatur zum "Daten-Upload" via JavaScript einfügen? <- Nico
+- [ ] Bildschirm Autorotate deaktivieren <- Max
 
 * Konzept
 
@@ -146,7 +147,7 @@
     
 * Layout überarbeiten
 * Tutorial-Elemente
-* Station 6 Umweltmodell (Max, Nico, Marvin)
+* Station 6 Umweltmodell <- Max, Nico, Marvin
 
     - [ ] Machbarkeit klären
 
@@ -154,9 +155,9 @@
 
 ### Sub-Story: Testlauf Station 0 und 1 
 
-	- [ ] Testkriterien Festlegen
-	- [ ] Testpersonen finden
-	- [ ] Testermin finden
+- [ ] Testkriterien Festlegen
+- [ ] Testpersonen finden
+- [ ] Testermin finden
 	
 ### Sub-Story: Speicherung und Verfügbarkeit von Daten in und über die App 
  * Essentielle Daten (funktionsrelevanter Code der App)
