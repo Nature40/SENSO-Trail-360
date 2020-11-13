@@ -5,21 +5,20 @@
 
 * Station 1 Individuum (⏰ 27.11.2020)
     - [ ] Skriptinhalte App-Struktur anpassen
+
     - [ ] Skriptinhalte von Lars, Martin oder Nico(?) prüfen und ggf. korrigieren lassen
         - [ ] Orte auf der Welt wo TreeTalker noch eingesetzt werden (TT-Netzwerk) <- Phillip, Nico, Martin, (Lars)
         - [ ] Technische Funktionsbeschreibungen (didaktisch überarbeitet) auf fachliche Korrektheit prüfen lassen <- Phillip, Martin, (Lars)
+
     - [ ] Klärung von Methoden und Integration von Interaktionselementen
-        - [ ] Dendromenterband - Phillip, ( ⏰Nico, Dietrich Göttlicher)
-            - [ ] Funktion klären
+        - [ ] Dendromenterband <- Phillip
+            - [ ] Funktion klären<- ⏰Nico, Dietrich Göttlicher
             - [ ] Erklärung zu Ablesen verfassen 
 
     - [ ] Tastatur zum "Daten-Upload" via JavaScript einfügen? <- Nico
-
-        - [ ] Saftflussdaten <- Nico⏰
-
+         - [ ] Saftflussdaten <- Nico⏰
          - [ ] automatisches abrufen möglich?
-
-    - [ ] Daten (automatisch) zu Diagrammen verarbeiten
+         - [ ] Daten (automatisch) zu Diagrammen verarbeiten
 
 
     - [ ] Erklärende Animation für Abschluss in UP1 erstellen <- Phillip⏰
@@ -42,22 +41,19 @@
 
 ### Sub-Story 2.1 App <- Max, Nico
 - [ ] Wie soll die App funktioieren? 
-
     - [ ] Web-App oder nicht
-
     - [ ] Caching, Dynamik und Speicherfunktion
-
     - [ ] externe Inhalte 
-
     - [ ] Update der App
-
     - [ ] manuell oder automatisch
-
     - [ ] vor Ort im Wald oder zuhause
-
     - [ ] Leih- oder Privatgeräte 
 
 - [ ] App entwickeln!
+
+- [ ] Station 6 Umweltmodell <- Max, Nico, Marvin
+    - [ ] Machbarkeit klären
+    - [ ] 3D Lidar Punktwolke editierbar?
 
 ## Story 3:   Sation 4 und 5 zum Laufen bringen und testen
 ## Story 4:   Sation 6 zum Laufen bringen und testen
@@ -110,9 +106,7 @@
 
 - [ ] Bildschirm Autorotate deaktivieren <- Max
 
-- [ ] Station 6 Umweltmodell <- Max, Nico, Marvin
-    - [ ] Machbarkeit klären
-    - [ ] 3D Lidar Punktwolke editierbar?
+
 
 ### Sub-Story: Speicherung und Verfügbarkeit von Daten in und über die App 
  * Essentielle Daten (funktionsrelevanter Code der App)
@@ -197,4 +191,5 @@
     * people for recording voices must be found
     * and so on...
 * offline availabilty
+
 
