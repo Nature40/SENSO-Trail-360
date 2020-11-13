@@ -1,164 +1,119 @@
 # Epic: Evaluations-Studie zum Bildungskonzept "SENSO-Trail" 
-(Carina, Phillip, Max, <span style="color:red">Nico</span>)
+(Carina, Phillip, Max, Nico)
 
-## Story: Zeitplan
+## Story 1: Sation 0 und 1 zum Laufen bringen und testen
 
-2020
-11
-12 ->| Stationen überarbeiten / -> Audioaufnahmen
-2021
-1
-2
-3
-4->| SENSO-Trail360
-5 -> 2. Paper mit Ergebnissen aus dem SENSO-Trail360
-6
-7
-
-## Story: Hardware (Phillip, Max, <span style="color:red">Nico</span>)
-
-### Sub-Story: Tablets  
-
-- [ ] Anforderungen an Tablets klären <- <span style="color:red">Nico</span>(⏰ 01.02.2021)
-- [ ] Beschaffung von 15 Tablets <- <span style="color:red">Nico</span>
-
-
-### Sub-Story: Instalationen vor im Wald
-* Installation für Station 2
-
-    - [ ] Art der Installation(en) klären
-    	* Vorschlag: Zwei möglichst simple Digitalanzeigen (mit je Thermo & Hygro) auf Sichthöhe am Baum. Ein Gerät hat den Sensor direkt verbaut und das Andere ist übe rin Kabel mit einem Sensor in 15-20m Höhe in der Baumkrone verbunden. 
-
-    - [ ] Material beschaffen
-
-    - [ ] Installieren und testen
-
-* Installation für Station 5
-
-    - [ ] Art der Installation(en) kären 
-
-    - [ ] Material beschaffen
-
-    - [ ] Installieren und testen
-
-* Beschilderung zu Stationen, Wegen und UPs
-
-    - [ ] Schilder designen
-
-    - [ ] Schilder bestellen
-
-    - [ ] Schilder montieren
-
-
-## Story: Skript zu Methoden und Inhalten
-
-
-* Station 1 Individuum (⏰ 11.11.2020)
-
+* Station 1 Individuum (⏰ 27.11.2020)
     - [ ] Skriptinhalte App-Struktur anpassen
-
     - [ ] Skriptinhalte von Lars, Martin oder Nico(?) prüfen und ggf. korrigieren lassen
-        - [ ] Orte auf der Welt wo TreeTalker noch eingesetzt werden (TT-Netzwerk) <- Phillip, <span style="color:red">Nico</span>, Martin, (Lars)
+        - [ ] Orte auf der Welt wo TreeTalker noch eingesetzt werden (TT-Netzwerk) <- Phillip, Nico, Martin, (Lars)
         - [ ] Technische Funktionsbeschreibungen (didaktisch überarbeitet) auf fachliche Korrektheit prüfen lassen <- Phillip, Martin, (Lars)
-
     - [ ] Klärung von Methoden und Integration von Interaktionselementen
-    	- [ ] Erklärung zu Dendromenterband verfassen - Phillip, (Dietrich Göttlicher)
-	- [ ] Erklärende Animation für Abschluss in UP1 erstellen <- Phillip
-   
-    - [x] Skriptinhalte ans Forschungsziel (Transdisziplinäre Kenntissvermittlung) anpassen
+        - [ ] Dendromenterband - Phillip, ( ⏰Nico, Dietrich Göttlicher)
+
+               - [ ]  Erklärung zu Ablesen verfassen 
+
+    - [ ] Tastatur zum "Daten-Upload" via JavaScript einfügen? <- Nico
+
+        - [ ] Saftflussdaten <- Nico⏰
+
+         - [ ] automatisches abrufen möglich?
+
+    - [ ] Daten (automatisch) zu Diagrammen verarbeiten
+
+
+    - [ ] Erklärende Animation für Abschluss in UP1 erstellen <- Phillip⏰
+    - [x] Skriptinhalte ans Forschungsziel (Transdisziplinäre Kenntnissvermittlung) anpassen
     - [ ] Fertige Skriptteile an Bella zur Aufnahme weiterleiten <- Phillip
-    - [ ] Quizfragen für Station 1 Formulieren <- Phillip
-   
-   * Saftflussdaten <- <span style="color:red">Nico</span>
+    - [ ] Quizfragen für Station 1 Formulieren <- Phillip⏰
 
-* Station 2 Unbelebte Umwelt (⏰ 18.11.2020)
+### Sub-Story 1.1: Testlauf Station 0 und 1 
 
+- [ ] Testkriterien Festlegen
+- [ ] Testpersonen finden
+- [ ] Testermin finden
+
+## Story 2: Sation 2 und 3 zum Laufen bringen und testen
+
+- [ ] Reflektionsmeeting zum Test
+- [ ]  Anpassung von Station 0 und 1 
+- [ ]  Vervollständigung (Skript für alle Station überarbeiten)
+- [ ]  Vervollständigung (App für alle Station vervielfältigen)
+
+###Sub-Story 2.1 App <- Max, Nico
+- [ ] Wie soll die App funktioieren? 
+
+    - [ ] Web-App oder nicht
+
+    - [ ] Caching, Dynamik und Speicherfunktion
+
+    - [ ] externe Inhalte 
+
+    - [ ] Update der App
+
+    - [ ] manuell oder automatisch
+
+    - [ ] vor Ort im Wald oder zuhause
+
+    - [ ] Leih- oder Privatgeräte 
+
+- [ ] App entwickeln!
+
+## Story 3:   Sation 4 und 5 zum Laufen bringen und testen
+## Story 4:   Sation 6 zum Laufen bringen und testen
+## Story 5:   Intro erstellen, einfügen und Feinschliff
+## Story 6:   Generalprobe
+## Story 7:   Evaluationsstudie 
+
+* Station 2 Unbelebte Umwelt 
     - [ ] Skriptinhalte App-Struktur anpassen
-
     - [ ] Ideen für Installation sammeln
         - [ ] Information zur Funktion der (neuen) Mikroklimamessstationen <- Chris/Nico
-	    - [ ] Einholen <- Phillip, Max
+        - [ ] Einholen <- Phillip, Max
             - [ ] Lerneiheit überarbeiten <- Phillip
-    
     - [ ] Klärung von Methoden und Integration von Interaktionselementen
-
     - [ ] Skriptinhalte ans Forschungsziel (Transdisziplinäre Kenntissvermittlung) anpassen
-   
     - [ ] Technische Funktionsbeschreibungen (didaktisch überarbeitet) auf fachliche Korrektheit prüfen lassen <- Phillip, Chris, (Nico)
     
-    * Mikroklima daten <- <span style="color:red">Nico</span>, (Chris)
+    * Mikroklima daten <- Nico, (Chris)
 
 * Station 3 Belebte Umwelt
-
     - [ ] Skriptinhalte App-Struktur anpassen
-
     - [ ] Skriptinhalte ans Forschungsziel (Transdisziplinäre Kenntissvermittlung) anpassen
-    
     - [ ] Technische Funktionsbeschreibungen (didaktisch überarbeitet) auf fachliche Korrektheit prüfen lassen <- Phillip, Jannis
-    
     - [ ] Klärung von Methoden und Integration von Interaktionselementen
 
     * Fledermausdaten <- Jannis
 
 * Station 4 Maschinelles Lernen
-
     - [ ] Skriptinhalte App-Struktur anpassen
-
     - [ ] Skriptinhalte ans Forschungsziel (Transdisziplinäre Kenntissvermittlung) anpassen
-    
-    - [ ] Technische Funktionsbeschreibungen (didaktisch überarbeitet) auf fachliche Korrektheit prüfen lassen <- Phillip, <span style="color:red">Nico</span>, (Jonas, Sven)
-
+    - [ ] Technische Funktionsbeschreibungen (didaktisch überarbeitet) auf fachliche Korrektheit prüfen lassen <- Phillip, Nico, (Jonas, Sven)
     - [ ] Klärung von Methoden und Integration von Interaktionselementen 
-
-    * Trainingsbilder von Fotofallen <- <span style="color:red">Nico</span>
+    - [ ] Trainingsbilder von Fotofallen <- Nico
 
 * Station 5 Fernerkundung
-
     - [ ] Skriptinhalte App-Struktur anpassen
-
     - [ ] Skriptinhalte ans Forschungsziel (Transdisziplinäre Kenntissvermittlung) anpassen
-
     - [ ] Klärung von Methoden und Integration von Interaktionselementen
-    
-    - [ ] Technische Funktionsbeschreibungen (didaktisch überarbeitet) auf fachliche Korrektheit prüfen lassen <- Phillip, <span style="color:red">Nico</span>, Marvin
+    - [ ] Technische Funktionsbeschreibungen (didaktisch überarbeitet) auf fachliche Korrektheit prüfen lassen <- Phillip, Nico, Marvin
 
     * Drohnenaufnahmen, Satellitenbilder <- Marvin
 
-
 *  Station 6
-
-    - [ ] Ideen für Visualisierungsmöglichkeiten eines virtuellen Waldmodells sammeln <- <span style="color:red">Nico</span> und Marvin
-    
+    - [ ] Ideen für Visualisierungsmöglichkeiten eines virtuellen Waldmodells sammeln <- Nico und Marvin
     - [ ] Technische Funktionsbeschreibungen (didaktisch überarbeitet) auf fachliche Korrektheit prüfen lassen <- Phillip, Nico, Chris, Thomas, ?
 
-
 * Station 0 Intro
-## Story: App Entwicklung
 
-- [ ] Tastatur zum "Daten-Upload" via JavaScript einfügen? <- <span style="color:red">Nico</span>
+## Story 2: App Entwicklung
+
 - [ ] Bildschirm Autorotate deaktivieren <- Max
 
-* Konzept
-
-    - [ ] Kommunikationsmenü mus fertiggestellt werden
-
-    
-* Vervollständigung (Konzept für alle Station vervielfältigen)
-    
-* Layout überarbeiten
-* Tutorial-Elemente
-* Station 6 Umweltmodell <- Max, <span style="color:red">Nico</span>, Marvin
-
+- [ ] Station 6 Umweltmodell <- Max, Nico, Marvin
     - [ ] Machbarkeit klären
-
     - [ ] 3D Lidar Punktwolke editierbar?
 
-### Sub-Story: Testlauf Station 0 und 1 
-
-- [ ] Testkriterien Festlegen
-- [ ] Testpersonen finden
-- [ ] Testermin finden
-	
 ### Sub-Story: Speicherung und Verfügbarkeit von Daten in und über die App 
  * Essentielle Daten (funktionsrelevanter Code der App)
 
@@ -185,7 +140,7 @@
     - [ ] Leaftletnutzung möglich?
 
 
-## Story: Audioaufnahmen
+## Story 3: Audioaufnahmen
 
 * Station 1
 * Station 0 (Intro)
@@ -193,9 +148,43 @@
      - [ ] Professor
      - [ ] 2x Studis
 
-## Story: Station 0
+## Story 4: Hardware
 
-## Story: SENSO-Trail360
+### Sub-Story 4.1: Tablets  
+
+- [ ] Anforderungen an Tablets klären <- <span style="color:red">Nico</span>(⏰ 01.02.2021)
+- [ ] Beschaffung von 15 Tablets <- <span style="color:red">Nico</span>
+
+### Sub-Story 4.2: Instalationen vor im Wald
+* Installation für Station 2
+
+    - [ ] Art der Installation(en) klären
+        * Vorschlag: Zwei möglichst simple Digitalanzeigen (mit je Thermo & Hygro) auf Sichthöhe am Baum. Ein Gerät hat den Sensor direkt verbaut und das Andere ist übe rin Kabel mit einem Sensor in 15-20m Höhe in der Baumkrone verbunden. 
+
+    - [ ] Material beschaffen
+
+    - [ ] Installieren und testen
+
+* Installation für Station 5
+
+    - [ ] Art der Installation(en) kären 
+
+    - [ ] Material beschaffen
+
+    - [ ] Installieren und testen
+
+* Beschilderung zu Stationen, Wegen und UPs
+
+    - [ ] Schilder designen
+
+    - [ ] Schilder bestellen
+
+    - [ ] Schilder montieren
+
+
+## Story 5: Station 0
+
+## Story 6: SENSO-Trail360
 * Tutorial
 * App einarbeiten
 * Panoramen einfügen
@@ -208,3 +197,4 @@
     * people for recording voices must be found
     * and so on...
 * offline availabilty
+
