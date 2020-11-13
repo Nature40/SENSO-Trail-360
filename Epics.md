@@ -16,7 +16,7 @@
             - [ ] Erklärung zu Ablesen verfassen 
 
     - [ ] Tastatur zum "Daten-Upload" via JavaScript einfügen? <- Nico
-         - [ ] Tree Talker-Daten <- Nico⏰
+         - [ ] Tree Talker-Daten /Volumetric Woodwater Content <- Nico⏰
          - [ ] automatisches abrufen möglich?
          - [ ] Daten (automatisch) zu Diagrammen verarbeiten
 
