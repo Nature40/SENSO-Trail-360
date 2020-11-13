@@ -1,5 +1,5 @@
 # Epic: Evaluations-Studie zum Bildungskonzept "SENSO-Trail" 
-(Carina, Phillip, Max, Nico)
+(Carina, Phillip, Max, <span style="color:red">Nico</span>)
 
 ## Story: Zeitplan
 
@@ -15,12 +15,12 @@
 6
 7
 
-## Story: Hardware (Phillip, Max, Nico)
+## Story: Hardware (Phillip, Max, <span style="color:red">Nico</span>)
 
 ### Sub-Story: Tablets  
 
-- [ ] Anforderungen an Tablets klären <- Nico(⏰ 01.02.2021)
-- [ ] Beschaffung von 15 Tablets <- Nico
+- [ ] Anforderungen an Tablets klären <- <span style="color:red">Nico</span>(⏰ 01.02.2021)
+- [ ] Beschaffung von 15 Tablets <- <span style="color:red">Nico</span>
 
 
 ### Sub-Story: Instalationen vor im Wald
@@ -58,7 +58,7 @@
     - [ ] Skriptinhalte App-Struktur anpassen
 
     - [ ] Skriptinhalte von Lars, Martin oder Nico(?) prüfen und ggf. korrigieren lassen
-        - [ ] Orte auf der Welt wo TreeTalker noch eingesetzt werden (TT-Netzwerk) <- Phillip, Nico, Martin, (Lars)
+        - [ ] Orte auf der Welt wo TreeTalker noch eingesetzt werden (TT-Netzwerk) <- Phillip, <span style="color:red">Nico</span>, Martin, (Lars)
         - [ ] Technische Funktionsbeschreibungen (didaktisch überarbeitet) auf fachliche Korrektheit prüfen lassen <- Phillip, Martin, (Lars)
 
     - [ ] Klärung von Methoden und Integration von Interaktionselementen
@@ -69,7 +69,7 @@
     - [ ] Fertige Skriptteile an Bella zur Aufnahme weiterleiten <- Phillip
     - [ ] Quizfragen für Station 1 Formulieren <- Phillip
    
-   * Saftflussdaten <- Nico
+   * Saftflussdaten <- <span style="color:red">Nico</span>
 
 * Station 2 Unbelebte Umwelt (⏰ 18.11.2020)
 
@@ -86,7 +86,7 @@
    
     - [ ] Technische Funktionsbeschreibungen (didaktisch überarbeitet) auf fachliche Korrektheit prüfen lassen <- Phillip, Chris, (Nico)
     
-    * Mikroklima daten <- Nico, (Chris)
+    * Mikroklima daten <- <span style="color:red">Nico</span>, (Chris)
 
 * Station 3 Belebte Umwelt
 
@@ -106,11 +106,11 @@
 
     - [ ] Skriptinhalte ans Forschungsziel (Transdisziplinäre Kenntissvermittlung) anpassen
     
-    - [ ] Technische Funktionsbeschreibungen (didaktisch überarbeitet) auf fachliche Korrektheit prüfen lassen <- Phillip, Nico, (Jonas, Sven)
+    - [ ] Technische Funktionsbeschreibungen (didaktisch überarbeitet) auf fachliche Korrektheit prüfen lassen <- Phillip, <span style="color:red">Nico</span>, (Jonas, Sven)
 
     - [ ] Klärung von Methoden und Integration von Interaktionselementen 
 
-    * Trainingsbilder von Fotofallen <- Nico
+    * Trainingsbilder von Fotofallen <- <span style="color:red">Nico</span>
 
 * Station 5 Fernerkundung
 
@@ -120,14 +120,14 @@
 
     - [ ] Klärung von Methoden und Integration von Interaktionselementen
     
-    - [ ] Technische Funktionsbeschreibungen (didaktisch überarbeitet) auf fachliche Korrektheit prüfen lassen <- Phillip, Nico, Marvin
+    - [ ] Technische Funktionsbeschreibungen (didaktisch überarbeitet) auf fachliche Korrektheit prüfen lassen <- Phillip, <span style="color:red">Nico</span>, Marvin
 
     * Drohnenaufnahmen, Satellitenbilder <- Marvin
 
 
 *  Station 6
 
-    - [ ] Ideen für Visualisierungsmöglichkeiten eines virtuellen Waldmodells sammeln <- Nico und Marvin
+    - [ ] Ideen für Visualisierungsmöglichkeiten eines virtuellen Waldmodells sammeln <- <span style="color:red">Nico</span> und Marvin
     
     - [ ] Technische Funktionsbeschreibungen (didaktisch überarbeitet) auf fachliche Korrektheit prüfen lassen <- Phillip, Nico, Chris, Thomas, ?
 
@@ -135,7 +135,7 @@
 * Station 0 Intro
 ## Story: App Entwicklung
 
-- [ ] Tastatur zum "Daten-Upload" via JavaScript einfügen? <- Nico
+- [ ] Tastatur zum "Daten-Upload" via JavaScript einfügen? <- <span style="color:red">Nico</span>
 - [ ] Bildschirm Autorotate deaktivieren <- Max
 
 * Konzept
@@ -147,7 +147,7 @@
     
 * Layout überarbeiten
 * Tutorial-Elemente
-* Station 6 Umweltmodell <- Max, Nico, Marvin
+* Station 6 Umweltmodell <- Max, <span style="color:red">Nico</span>, Marvin
 
     - [ ] Machbarkeit klären
 
@@ -165,7 +165,7 @@
     - [ ] Lauffähigkeit der lokal gespeicherten App auf projekteigenen Tablets prüfen (Nico)
 
 
-* Datenübertragung Natur 4.0 Datenbank -> App (Nico, Max)
+* Datenübertragung Natur 4.0 Datenbank -> App (<span style="color:red">Nico</span>, Max)
 
     * Station 1 TreeTalker
 
