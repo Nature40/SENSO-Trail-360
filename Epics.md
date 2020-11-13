@@ -10,8 +10,8 @@
         - [ ] Technische Funktionsbeschreibungen (didaktisch überarbeitet) auf fachliche Korrektheit prüfen lassen <- Phillip, Martin, (Lars)
     - [ ] Klärung von Methoden und Integration von Interaktionselementen
         - [ ] Dendromenterband - Phillip, ( ⏰Nico, Dietrich Göttlicher)
-
-               - [ ]  Erklärung zu Ablesen verfassen 
+            - [ ] Funktion klären
+            - [ ] Erklärung zu Ablesen verfassen 
 
     - [ ] Tastatur zum "Daten-Upload" via JavaScript einfügen? <- Nico
 
@@ -40,7 +40,7 @@
 - [ ]  Vervollständigung (Skript für alle Station überarbeiten)
 - [ ]  Vervollständigung (App für alle Station vervielfältigen)
 
-###Sub-Story 2.1 App <- Max, Nico
+### Sub-Story 2.1 App <- Max, Nico
 - [ ] Wie soll die App funktioieren? 
 
     - [ ] Web-App oder nicht
