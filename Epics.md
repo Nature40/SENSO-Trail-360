@@ -16,7 +16,7 @@
             - [ ] Erklärung zu Ablesen verfassen 
 
     - [ ] Tastatur zum "Daten-Upload" via JavaScript einfügen? <- Nico
-         - [ ] Saftflussdaten <- Nico⏰
+         - [ ] Tree Talker-Daten <- Nico⏰
          - [ ] automatisches abrufen möglich?
          - [ ] Daten (automatisch) zu Diagrammen verarbeiten
 
