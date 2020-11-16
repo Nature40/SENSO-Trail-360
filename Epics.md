@@ -8,11 +8,11 @@
 
     - [ ] Skriptinhalte von Lars, Martin oder Nico(?) prüfen und ggf. korrigieren lassen
         - [ ] Orte auf der Welt wo TreeTalker noch eingesetzt werden (TT-Netzwerk) <- Phillip, Nico, Martin, (Lars)
-        - [ ] Technische Funktionsbeschreibungen (didaktisch überarbeitet) auf fachliche Korrektheit prüfen lassen <- Phillip, Martin, (Lars)
+        - [x] Technische Funktionsbeschreibungen (didaktisch überarbeitet) auf fachliche Korrektheit prüfen lassen <- Phillip, Martin, (Lars)
 
     - [ ] Klärung von Methoden und Integration von Interaktionselementen
         - [ ] Dendromenterband <- Phillip
-            - [ ] Funktion klären<- ⏰Nico, Dietrich Göttlicher
+            - [x] Funktion klären<- Nico, Dietrich Göttlicher
             - [ ] Erklärung zu Ablesen verfassen 
 
     - [ ] Tastatur zum "Daten-Upload" via JavaScript einfügen? <- Nico
