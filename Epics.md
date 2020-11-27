@@ -6,14 +6,14 @@
 * Station 1 Individuum (⏰ 27.11.2020)
     - [ ] Skriptinhalte App-Struktur anpassen
 
-    - [ ] Skriptinhalte von Lars, Martin oder Nico(?) prüfen und ggf. korrigieren lassen
-        - [ ] Orte auf der Welt wo TreeTalker noch eingesetzt werden (TT-Netzwerk) <- Phillip, Nico, Martin, (Lars)
+    - [x] Skriptinhalte von Lars, Martin oder Nico(?) prüfen und ggf. korrigieren lassen
+        - [x] Orte auf der Welt wo TreeTalker noch eingesetzt werden (TT-Netzwerk) <- Phillip, Nico, Martin, (Lars)
         - [x] Technische Funktionsbeschreibungen (didaktisch überarbeitet) auf fachliche Korrektheit prüfen lassen <- Phillip, Martin, (Lars)
 
-    - [ ] Klärung von Methoden und Integration von Interaktionselementen
-        - [ ] Dendromenterband <- Phillip
+    - [x] Klärung von Methoden und Integration von Interaktionselementen
+        - [x] Dendromenterband <- Phillip
             - [x] Funktion klären<- Nico, Dietrich Göttlicher
-            - [ ] Erklärung zu Ablesen verfassen 
+            - [x] Erklärung zu Ablesen verfassen 
 
     - [ ] Tastatur zum "Daten-Upload" via JavaScript einfügen? <- Nico
          - [ ] Tree Talker-Daten /Volumetric Woodwater Content in eeine statische Grafik/Diagramm packen <- Nico⏰
@@ -21,15 +21,15 @@
          - [ ] Daten (automatisch) zu Diagrammen verarbeiten
 
 
-    - [ ] Erklärende Animation für Abschluss in UP1 erstellen <- Phillip⏰
+    - [x] Erklärende Animation für Abschluss in UP1 erstellen <- Phillip⏰
     - [x] Skriptinhalte ans Forschungsziel (Transdisziplinäre Kenntnissvermittlung) anpassen
-    - [ ] Fertige Skriptteile an Bella zur Aufnahme weiterleiten <- Phillip
-    - [ ] Quizfragen für Station 1 Formulieren <- Phillip⏰
+    - [x] Fertige Skriptteile an Bella zur Aufnahme weiterleiten <- Phillip
+    - [x] Quizfragen für Station 1 Formulieren <- Phillip⏰
 
 ### Sub-Story 1.1: Testlauf Station 0 und 1 
 
 - [ ] Testkriterien Festlegen
-- [ ] Testpersonen finden
+- [x] Testpersonen finden
 - [ ] Testermin finden
 
 ## Story 2: Sation 2 und 3 zum Laufen bringen und testen
