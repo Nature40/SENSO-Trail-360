@@ -1,61 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tour apprev="18007" appversion="6.1.10" start="node1">
+<tour apprev="18007" start="node1" appversion="6.1.10">
   <panorama id="node1">
-    <input width="265" leveltilesize="510" levelingroll="0" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" height="265" levelbiashidpi="1.000" levelingpitch="0">
-      <level width="265" predecode="1" height="265" preload="1"/>
-      <preview strip="1" color="0x808080"/>
+    <input width="265" overlap="1" levelbiashidpi="1.000" height="265" levelingpitch="0" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" levelingroll="0">
+      <level preload="1" predecode="1" width="265" height="265"/>
+      <preview color="0x808080" strip="1"/>
     </input>
-    <view pannorth="0" fovmode="3">
-      <start tilt="-11.81" projection="4" pan="122.78" fov="94.8"/>
-      <flyin tilt="-11.33" projection="4" pan="154.76" fov="67.88"/>
-      <min tilt="-69.0873" fovpixel="2" pan="-180"/>
-      <max fovfisheye="360" tilt="69.0873" fovstereographic="270" pan="180" fov="120"/>
+    <view fovmode="3" pannorth="0">
+      <start pan="122.78" tilt="-11.81" fov="94.8" projection="4"/>
+      <flyin pan="154.76" tilt="-11.33" fov="67.88" projection="4"/>
+      <min pan="-180" tilt="-69.0873" fovpixel="2"/>
+      <max pan="180" tilt="69.0873" fovstereographic="270" fovfisheye="360" fov="120"/>
     </view>
-    <userdata info="" customnodeid="" tags="Bilder" nodeid="node1" heading="0" author="" description="" copyright="" latitude="" longitude="" title="" source="" datetime="" comment=""/>
-    <hotspots width="180" wordwrap="1" height="20">
-      <label width="180" borderradius="1" textcolor="0x000000" background="1" textalpha="1" border="1" wordwrap="1" enabled="1" backgroundalpha="1" height="20" bordercolor="0x000000" backgroundcolor="0xffffff" borderalpha="1"/>
-      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1"/>
+    <userdata datetime="" title="" comment="" tags="Bilder" description="" customnodeid="" author="" nodeid="node1" info="" copyright="" latitude="" heading="0" source="" longitude=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label enabled="1" bordercolor="0x000000" wordwrap="1" borderradius="1" width="180" borderalpha="1" textcolor="0x000000" height="20" backgroundcolor="0xffffff" border="1" textalpha="1" backgroundalpha="1" background="1"/>
+      <polystyle bordercolor="0x0000ff" mode="0" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
     </hotspots>
     <media>
-      <sound field="90.000" tiltsize="10.000" id="Element01" tilt="2.590" startmutedmobile="0" ambientlevel="0.000" loop="-1" level="1.000" nodechangekeep="0" pan="-192.870" mode="2" pansize="10.000">
+      <sound pan="-192.870" startmutedmobile="0" level="1.000" mode="2" nodechangekeep="0" id="Element01" tilt="2.590" ambientlevel="0.000" pansize="10.000" tiltsize="10.000" loop="-1" field="90.000">
         <source url="media/Nachricht 1.mp3"/>
       </sound>
-      <sound field="90.000" tiltsize="10.000" id="Element02" tilt="-7.060" startmutedmobile="0" ambientlevel="0.000" loop="-1" level="1.000" nodechangekeep="0" pan="-192.610" mode="2" pansize="10.000">
+      <sound pan="-192.610" startmutedmobile="0" level="1.000" mode="2" nodechangekeep="0" id="Element02" tilt="-7.060" ambientlevel="0.000" pansize="10.000" tiltsize="10.000" loop="-1" field="90.000">
         <source url="media/Nachricht 2.mp3"/>
       </sound>
-      <sound field="90.000" tiltsize="10.000" id="Element03" tilt="-15.680" startmutedmobile="0" ambientlevel="0.000" loop="-1" level="1.000" nodechangekeep="0" pan="-191.700" mode="2" pansize="10.000">
+      <sound pan="-191.700" startmutedmobile="0" level="1.000" mode="2" nodechangekeep="0" id="Element03" tilt="-15.680" ambientlevel="0.000" pansize="10.000" tiltsize="10.000" loop="-1" field="90.000">
         <source url="media/Nachricht 3.mp3"/>
       </sound>
-      <sound field="90.000" tiltsize="10.000" id="neueNachricht" tilt="-7.000" startmutedmobile="0" ambientlevel="0.000" loop="-1" level="1.000" nodechangekeep="0" pan="-183.710" mode="2" pansize="10.000">
+      <sound pan="-183.710" startmutedmobile="0" level="1.000" mode="2" nodechangekeep="0" id="neueNachricht" tilt="-7.000" ambientlevel="0.000" pansize="10.000" tiltsize="10.000" loop="-1" field="90.000">
         <source url="media/neueNachricht.mp3"/>
       </sound>
-      <sound field="90.000" tiltsize="10.000" id="Auftrag 0" tilt="3.460" startmutedmobile="0" ambientlevel="0.000" loop="-1" level="1.000" nodechangekeep="0" pan="-199.480" mode="2" pansize="10.000">
+      <sound pan="-199.480" startmutedmobile="0" level="1.000" mode="2" nodechangekeep="0" id="Auftrag 0" tilt="3.460" ambientlevel="0.000" pansize="10.000" tiltsize="10.000" loop="-1" field="90.000">
         <source url="media/Auftrag 0.mp3"/>
       </sound>
-      <sound field="90.000" tiltsize="10.000" id="Auftrag 1" tilt="-8.720" startmutedmobile="0" ambientlevel="0.000" loop="-1" level="1.000" nodechangekeep="0" pan="-200.610" mode="2" pansize="10.000">
+      <sound pan="-200.610" startmutedmobile="0" level="1.000" mode="2" nodechangekeep="0" id="Auftrag 1" tilt="-8.720" ambientlevel="0.000" pansize="10.000" tiltsize="10.000" loop="-1" field="90.000">
         <source url="media/Auftrag 1.mp3"/>
       </sound>
-      <sound field="90.000" tiltsize="10.000" id="Auftrag 2" tilt="-24.200" startmutedmobile="0" ambientlevel="0.000" loop="-1" level="1.000" nodechangekeep="0" pan="-200.020" mode="2" pansize="10.000">
+      <sound pan="-200.020" startmutedmobile="0" level="1.000" mode="2" nodechangekeep="0" id="Auftrag 2" tilt="-24.200" ambientlevel="0.000" pansize="10.000" tiltsize="10.000" loop="-1" field="90.000">
         <source url="media/Auftrag 2.mp3"/>
       </sound>
-      <sound field="90.000" tiltsize="10.000" id="neuerAuftrag" tilt="-14.350" startmutedmobile="0" ambientlevel="0.000" loop="-1" level="1.000" nodechangekeep="0" pan="-182.660" mode="2" pansize="10.000">
+      <sound pan="-182.660" startmutedmobile="0" level="1.000" mode="2" nodechangekeep="0" id="neuerAuftrag" tilt="-14.350" ambientlevel="0.000" pansize="10.000" tiltsize="10.000" loop="-1" field="90.000">
         <source url="media/neuerAuftrag.mp3"/>
       </sound>
-      <sound field="90.000" tiltsize="10.000" id="plopp" tilt="-11.000" startmutedmobile="0" ambientlevel="0.000" loop="-1" level="1.000" nodechangekeep="0" pan="-179.340" mode="2" pansize="10.000">
+      <sound pan="-179.340" startmutedmobile="0" level="1.000" mode="2" nodechangekeep="0" id="plopp" tilt="-11.000" ambientlevel="0.000" pansize="10.000" tiltsize="10.000" loop="-1" field="90.000">
         <source url="media/Plopp.mp3"/>
       </sound>
-      <sound field="90.000" tiltsize="10.000" id="Navigation" tilt="-26.980" startmutedmobile="0" ambientlevel="0.000" loop="-1" level="1.000" nodechangekeep="0" pan="-190.950" mode="2" pansize="10.000">
+      <sound pan="-190.950" startmutedmobile="0" level="1.000" mode="2" nodechangekeep="0" id="Navigation" tilt="-26.980" ambientlevel="0.000" pansize="10.000" tiltsize="10.000" loop="-1" field="90.000">
         <source url="media/Nachricht 4.mp3"/>
       </sound>
-      <sound field="90.000" tiltsize="10.000" id="neueStationen" tilt="-22.610" startmutedmobile="0" ambientlevel="0.000" loop="-1" level="1.000" nodechangekeep="0" pan="-180.660" mode="2" pansize="10.000">
+      <sound pan="-180.660" startmutedmobile="0" level="1.000" mode="2" nodechangekeep="0" id="neueStationen" tilt="-22.610" ambientlevel="0.000" pansize="10.000" tiltsize="10.000" loop="-1" field="90.000">
         <source url="media/neueStationen.mp3"/>
       </sound>
     </media>
-    <transition type="crossdissolve" zoomspeed="2" zoomafteroutfov="20" zoomoutpause="1" enabled="1" zoomfov="20" zoomin="0" blendcolor="0x000000" zoomafterinfov="90" blendtime="1" zoomout="0" softedge="0"/>
-    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
-    <control lockedwheel="0" contextfullscreen="1" lockedkeyboard="0" lockedkeyboardzoom="0" dblclickfullscreen="0" invertwheel="0" lockedmouse="0" simulatemass="1" rubberband="0" invertcontrol="1" contextprojections="0" speedwheel="1" sensitivity="8" hideabout="0"/>
+    <transition enabled="1" type="crossdissolve" zoomafterinfov="90" blendcolor="0x000000" zoomafteroutfov="20" blendtime="1" zoomspeed="2" softedge="0" zoomoutpause="1" zoomfov="20" zoomout="0" zoomin="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control invertcontrol="1" lockedkeyboardzoom="0" speedwheel="1" contextprojections="0" sensitivity="8" simulatemass="1" rubberband="0" invertwheel="0" hideabout="0" dblclickfullscreen="0" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" contextfullscreen="1"/>
   </panorama>
   <masternode>
-    <userdata info="" customnodeid="" tags="" nodeid="master" heading="0" author="" description="" copyright="" latitude="" longitude="" title="" source="" datetime="" comment=""/>
+    <userdata datetime="" title="" comment="" tags="" description="" customnodeid="" author="" nodeid="master" info="" copyright="" latitude="" heading="0" source="" longitude=""/>
   </masternode>
 </tour>
