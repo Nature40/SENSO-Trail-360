@@ -1,10 +1,33 @@
 # Epic: Evaluations-Studie zum Bildungskonzept "SENSO-Trail" 
 (Carina, Phillip, Max, Nico)
 
-## Story 1: Sation 0 und 1 zum Laufen bringen und testen
+## Übersicht
+## Story 1: SENSO-Trail Konzeption und Implementierung
+
+## Sub-Story 
+## Story 2: SENSO-Trail 360 Konzepttransfer und Implementierung
+## Story 3: 1. Publikation - Studie Instrumentenevaluation
+## Story 4: 2. Publikation - Konzept-Evaluation (Pandemie-Adaption: Plan A: Wald /Plan B: virtuell)
+## Story 5: 3. Publikation - Konzeptvergleich
+## Sub-Story 1: SENSO-Trail
+Sation 0 und 1 zum Laufen bringen und testen
+
+* Station 0 Intro 
 
 * Station 1 Individuum (⏰ 27.11.2020)
-    - [ ] Skriptinhalte App-Struktur anpassen
+    
+	- [x] Skripentwurf verfassen (Phillip)
+	- [x] 1. Feedbackschleife (Max und Carina)
+	- [x] Skript überarbeiten (Phillip)
+	- [x] 2. Feedbackschleife (Nico und Lars/Martin)
+	- [x] Skript fertigstellen (Phillip)
+	- [ ] Sprachaufnahmen (Bella)
+	- [ ] Quizfragen entwickeln (Phillip)
+	- [ ] Texte in Appstruktur einspeisen (Max)
+	- [ ] Audiofiles in Apppstruktur einspeisen (Max)
+	- [ ] Analyse-Modul in Appstruktur einspeisen (Max)
+	- [ ] Testlauf S1 (Max, Phillip)
+	- [ ] Optimierung und Fertigstellung S1 (Max, Phillip) 
 
     - [x] Skriptinhalte von Lars, Martin oder Nico(?) prüfen und ggf. korrigieren lassen
         - [x] Orte auf der Welt wo TreeTalker noch eingesetzt werden (TT-Netzwerk) <- Phillip, Nico, Martin, (Lars)
@@ -16,7 +39,7 @@
             - [x] Erklärung zu Ablesen verfassen 
 
     - [ ] Tastatur zum "Daten-Upload" via JavaScript einfügen? <- Nico
-         - [ ] Tree Talker-Daten /Volumetric Woodwater Content in eeine statische Grafik/Diagramm packen <- Nico⏰
+         - [x] Tree Talker-Daten /Volumetric Woodwater Content in eeine statische Grafik/Diagramm packen <- Nico⏰
          - [ ] automatisches abrufen möglich?
          - [ ] Daten (automatisch) zu Diagrammen verarbeiten
 
@@ -191,5 +214,3 @@
     * people for recording voices must be found
     * and so on...
 * offline availabilty
-
-
