@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="18043" start="node1" appversion="6.1.11">
+  <panorama id="node1">
+    <input overlap="1" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" height="265" levelingpitch="0" leveltilesize="510" levelingroll="0" width="265" levelbias="0.400" levelbiashidpi="1.000">
+      <level height="265" width="265" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="3" pannorth="0">
+      <start pan="122.78" fov="94.8" projection="4" tilt="-11.81"/>
+      <flyin pan="154.76" fov="67.88" projection="4" tilt="-11.33"/>
+      <min pan="-180" fovpixel="2" tilt="-69.0873"/>
+      <max fovstereographic="270" fovfisheye="360" pan="180" fov="120" tilt="69.0873"/>
+    </view>
+    <userdata info="" latitude="" comment="" customnodeid="" title="" description="" longitude="" source="" tags="Bilder" nodeid="node1" heading="0" datetime="" copyright="" author=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label textcolor="0x000000" wordwrap="1" backgroundcolor="0xffffff" bordercolor="0x000000" height="20" textalpha="1" backgroundalpha="1" borderradius="1" enabled="1" width="180" background="1" borderalpha="1" border="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" mode="0" borderalpha="1"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" type="crossdissolve" softedge="0" zoomafteroutfov="20" enabled="1" zoomfov="20" zoomafterinfov="90" blendcolor="0x000000" zoomspeed="2" zoomin="0" zoomout="0" zoomoutpause="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control simulatemass="1" lockedkeyboard="0" dblclickfullscreen="0" sensitivity="8" rubberband="0" lockedkeyboardzoom="0" contextprojections="0" speedwheel="1" contextfullscreen="1" invertcontrol="1" invertwheel="0" lockedwheel="0" lockedmouse="0"/>
+  </panorama>
+  <masternode>
+    <userdata info="" latitude="" comment="" customnodeid="" title="" description="" longitude="" source="" tags="" nodeid="master" heading="0" datetime="" copyright="" author=""/>
+  </masternode>
+</tour>
