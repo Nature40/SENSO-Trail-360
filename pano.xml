@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="6.1.13" start="node3" apprev="18080">
+  <panorama id="node3">
+    <input width="265" levelingpitch="0" height="265" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelbias="0.400" leveltilesize="510" levelbiashidpi="1.000" overlap="1">
+      <level width="265" height="265" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="3">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-69.0873" fovpixel="2" pan="-180"/>
+      <max tilt="69.0873" fov="120" fovfisheye="360" pan="180" fovstereographic="270"/>
+    </view>
+    <userdata title="" tags="Bilder" author="" info="" description="" heading="0" copyright="" comment="" nodeid="node3" longitude="" customnodeid="" datetime="" latitude="" source=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" textcolor="0x000000" background="1" height="20" backgroundalpha="1" borderradius="1" wordwrap="1" enabled="1" bordercolor="0x000000" textalpha="1" border="1" backgroundcolor="0xffffff" borderalpha="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" zoomoutpause="1" zoomfov="20" zoomspeed="2" zoomin="0" zoomafteroutfov="20" blendcolor="0x000000" zoomafterinfov="90" enabled="1" type="crossdissolve" softedge="0" blendtime="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control invertwheel="0" rubberband="0" speedwheel="1" invertcontrol="1" lockedwheel="0" lockedkeyboard="0" contextvr="1" simulatemass="1" contextprojections="0" contextfullscreen="1" lockedkeyboardzoom="0" lockedmouse="0" dblclickfullscreen="0" sensitivity="8"/>
+  </panorama>
+  <panorama id="node1">
+    <input width="1520" levelingpitch="0" height="1520" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelbias="0.400" leveltilesize="510" levelbiashidpi="1.000" overlap="1">
+      <level width="1520" height="1520" preload="0" predecode="0"/>
+      <level width="760" height="760" preload="0" predecode="0"/>
+      <level width="380" height="380" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="3">
+      <start tilt="2.26" fov="81.01" projection="4" pan="-102.63"/>
+      <flyin tilt="-11.33" fov="67.88" projection="4" pan="154.76"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max scaletofit="1" tilt="90" fov="120" fovfisheye="360" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata title="" tags="S0" author="" info="" description="" heading="0" copyright="" comment="" nodeid="node1" longitude="" customnodeid="S0" datetime="" latitude="" source=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" textcolor="0x000000" background="1" height="20" backgroundalpha="1" borderradius="1" wordwrap="1" enabled="1" bordercolor="0x000000" textalpha="1" border="1" backgroundcolor="0xffffff" borderalpha="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="" tilt="0.82" description="" url="" skinid="S0H1" target="" id="01" pan="-145.68"/>
+      <hotspot title="" tilt="0.07" description="" url="" skinid="S0H2" target="" id="02" pan="-214.65"/>
+      <hotspot title="" tilt="4.5" description="" url="" skinid="S0H3" target="" id="03" pan="-214.35"/>
+      <hotspot title="" tilt="5.03" description="" url="" skinid="S0H4" target="_blank" id="4" pan="-20.49"/>
+    </hotspots>
+    <media>
+      <image width="228" handcursor="0" rotz="0.000" stretch="1.000" tilt="4.850" fov="2.951" height="131" clickmode="0" id="Element04" pan="-20.490" rotx="0.000" roty="18.000">
+        <source url="media/0.png"/>
+      </image>
+      <image width="1060" handcursor="0" rotz="-6.000" stretch="1.000" tilt="-6.340" fov="4.706" height="883" clickmode="0" id="Element06" pan="-357.800" rotx="-6.000" roty="-20.000">
+        <source url="media/b.png"/>
+      </image>
+      <image width="1660" handcursor="0" rotz="3.000" stretch="1.000" tilt="-7.030" fov="4.707" height="1803" clickmode="0" id="Element06" pan="-275.900" rotx="-10.000" roty="9.000">
+        <source url="media/b.png"/>
+      </image>
+      <image width="261" handcursor="0" rotz="0.000" stretch="1.000" tilt="-87.460" fov="39.070" height="261" clickmode="0" id="Element07" pan="-166.130" rotx="0.000" roty="0.000">
+        <source url="media/StativAbdeckung.png"/>
+      </image>
+      <sound startmutedmobile="0" tilt="4.800" pansize="10.000" loop="0" level="0.500" field="90.000" tiltsize="10.000" id="Element01" pan="-177.860" nodechangekeep="0" mode="2" ambientlevel="0.000">
+        <source url="media/Waldgerausche.mp3"/>
+      </sound>
+    </media>
+    <transition zoomout="0" zoomoutpause="1" zoomfov="20" zoomspeed="2" zoomin="0" zoomafteroutfov="20" blendcolor="0x000000" zoomafterinfov="90" enabled="1" type="crossdissolve" softedge="0" blendtime="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control invertwheel="0" rubberband="0" speedwheel="1" invertcontrol="1" lockedwheel="0" lockedkeyboard="0" contextvr="1" simulatemass="1" contextprojections="0" contextfullscreen="1" lockedkeyboardzoom="0" lockedmouse="0" dblclickfullscreen="0" sensitivity="8"/>
+  </panorama>
+  <panorama id="node2">
+    <input width="1520" levelingpitch="0" height="1520" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelbias="0.400" leveltilesize="510" levelbiashidpi="1.000" overlap="1">
+      <level width="1520" height="1520" preload="0" predecode="0"/>
+      <level width="760" height="760" preload="0" predecode="0"/>
+      <level width="380" height="380" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="3">
+      <start tilt="-4.19" fov="81.01" projection="4" pan="80.38"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max scaletofit="1" tilt="90" fov="120" fovfisheye="360" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata title="" tags="Panoramen" author="" info="" description="" heading="0" copyright="" comment="" nodeid="node2" longitude="" customnodeid="" datetime="11.10.2020 08:33" latitude="" source=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" textcolor="0x000000" background="1" height="20" backgroundalpha="1" borderradius="1" wordwrap="1" enabled="1" bordercolor="0x000000" textalpha="1" border="1" backgroundcolor="0xffffff" borderalpha="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="" tilt="0.78" description="" url="" skinid="S1H1" target="_blank" id="S1H1" pan="-69.83"/>
+      <hotspot title="" tilt="19.84" description="" url="" skinid="S1H2" target="_blank" id="S1H2" pan="-69.16"/>
+    </hotspots>
+    <media>
+      <image width="228" handcursor="0" rotz="-1.000" stretch="1.000" tilt="19.890" fov="4.426" height="131" clickmode="0" id="Element01" pan="-69.180" rotx="-5.000" roty="4.000">
+        <source url="media/1.png"/>
+      </image>
+      <image width="261" handcursor="0" rotz="0.000" stretch="1.000" tilt="-88.760" fov="37.850" height="261" clickmode="0" id="Element07" pan="-166.420" rotx="0.000" roty="0.000">
+        <source url="media/StativAbdeckung.png"/>
+      </image>
+      <sound startmutedmobile="0" tilt="-65.100" pansize="10.000" loop="0" level="0.500" field="90.000" tiltsize="10.000" id="Element01" pan="-338.430" nodechangekeep="0" mode="2" ambientlevel="0.000">
+        <source url="media/Waldgerausche.mp3"/>
+      </sound>
+    </media>
+    <transition zoomout="0" zoomoutpause="1" zoomfov="20" zoomspeed="2" zoomin="0" zoomafteroutfov="20" blendcolor="0x000000" zoomafterinfov="90" enabled="1" type="crossdissolve" softedge="0" blendtime="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control invertwheel="0" rubberband="0" speedwheel="1" invertcontrol="1" lockedwheel="0" lockedkeyboard="0" contextvr="1" simulatemass="1" contextprojections="0" contextfullscreen="1" lockedkeyboardzoom="0" lockedmouse="0" dblclickfullscreen="0" sensitivity="8"/>
+  </panorama>
+  <panorama id="node4">
+    <input width="1520" levelingpitch="0" height="1520" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelbias="0.400" leveltilesize="510" levelbiashidpi="1.000" overlap="1">
+      <level width="1520" height="1520" preload="0" predecode="0"/>
+      <level width="760" height="760" preload="0" predecode="0"/>
+      <level width="380" height="380" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="3">
+      <start tilt="-5.38" fov="82.39" projection="4" pan="1.04"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max scaletofit="1" tilt="90" fov="120" fovfisheye="360" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata title="" tags="Panoramen" author="" info="" description="" heading="0" copyright="" comment="" nodeid="node4" longitude="" customnodeid="" datetime="24.09.2020 10:04" latitude="" source=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" textcolor="0x000000" background="1" height="20" backgroundalpha="1" borderradius="1" wordwrap="1" enabled="1" bordercolor="0x000000" textalpha="1" border="1" backgroundcolor="0xffffff" borderalpha="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="" tilt="-23.74" description="" url="" skinid="S11H2Box" target="_blank" id="Point01" pan="-25.14"/>
+      <hotspot title="" tilt="-21.74" description="" url="" skinid="S11H1Solar" target="_blank" id="Point02" pan="-320.75"/>
+      <hotspot title="" tilt="-26.58" description="" url="" skinid="S11H3Feld" target="_blank" id="Point03" pan="-262.6"/>
+      <hotspot title="" tilt="8.95" description="" url="" skinid="S11H4TT" target="_blank" id="Point04" pan="-136.03"/>
+      <hotspot title="" tilt="-16.01" description="" url="" skinid="S11H4FrasDrop" target="_blank" id="Point05" pan="-105.82"/>
+      <hotspot title="" tilt="18.23" description="" url="" skinid="S11H5Schlüssel" target="_blank" id="Point06" pan="-138.78"/>
+    </hotspots>
+    <media>
+      <image width="228" handcursor="0" rotz="-1.000" stretch="1.000" tilt="18.030" fov="4.500" height="131" clickmode="0" id="Element01" pan="-138.720" rotx="1.000" roty="0.000">
+        <source url="media/11.png"/>
+      </image>
+      <image width="261" handcursor="0" rotz="0.000" stretch="1.000" tilt="-85.370" fov="42.866" height="261" clickmode="0" id="Element07" pan="-184.990" rotx="0.000" roty="0.000">
+        <source url="media/StativAbdeckung.png"/>
+      </image>
+      <sound startmutedmobile="0" tilt="-58.150" pansize="10.000" loop="0" level="0.500" field="90.000" tiltsize="10.000" id="Element01" pan="-358.470" nodechangekeep="0" mode="2" ambientlevel="0.000">
+        <source url="media/Waldgerausche.mp3"/>
+      </sound>
+    </media>
+    <transition zoomout="0" zoomoutpause="1" zoomfov="20" zoomspeed="2" zoomin="0" zoomafteroutfov="20" blendcolor="0x000000" zoomafterinfov="90" enabled="1" type="crossdissolve" softedge="0" blendtime="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control invertwheel="0" rubberband="0" speedwheel="1" invertcontrol="1" lockedwheel="0" lockedkeyboard="0" contextvr="1" simulatemass="1" contextprojections="0" contextfullscreen="1" lockedkeyboardzoom="0" lockedmouse="0" dblclickfullscreen="0" sensitivity="8"/>
+  </panorama>
+  <panorama id="node5">
+    <input width="1520" levelingpitch="0" height="1520" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelbias="0.400" leveltilesize="510" levelbiashidpi="1.000" overlap="1">
+      <level width="1520" height="1520" preload="0" predecode="0"/>
+      <level width="760" height="760" preload="0" predecode="0"/>
+      <level width="380" height="380" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="3">
+      <start tilt="10.66" fov="69.51" projection="4" pan="169.56"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max scaletofit="1" tilt="90" fov="120" fovfisheye="360" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata title="" tags="Panoramen" author="" info="" description="" heading="0" copyright="" comment="" nodeid="node5" longitude="" customnodeid="" datetime="11.10.2020 08:36" latitude="" source=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" textcolor="0x000000" background="1" height="20" backgroundalpha="1" borderradius="1" wordwrap="1" enabled="1" bordercolor="0x000000" textalpha="1" border="1" backgroundcolor="0xffffff" borderalpha="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="" tilt="-3.56" description="" url="" skinid="ht_url" target="_blank" id="Point01" pan="-34.78"/>
+      <hotspot title="" tilt="14.03" description="" url="" skinid="ht_url" target="_blank" id="Point02" pan="-350.22"/>
+      <hotspot title="" tilt="26.37" description="" url="" skinid="ht_url" target="_blank" id="Point03" pan="-348.52"/>
+    </hotspots>
+    <media>
+      <image width="132" handcursor="0" rotz="0.000" stretch="1.000" tilt="26.360" fov="3.667" height="131" clickmode="0" id="Element01" pan="-348.250" rotx="3.000" roty="0.000">
+        <source url="media/12.png"/>
+      </image>
+      <sound startmutedmobile="0" tilt="-53.230" pansize="10.000" loop="0" level="0.500" field="90.000" tiltsize="10.000" id="Element01" pan="-342.160" nodechangekeep="0" mode="2" ambientlevel="0.000">
+        <source url="media/Waldgerausche.mp3"/>
+      </sound>
+    </media>
+    <transition zoomout="0" zoomoutpause="1" zoomfov="20" zoomspeed="2" zoomin="0" zoomafteroutfov="20" blendcolor="0x000000" zoomafterinfov="90" enabled="1" type="crossdissolve" softedge="0" blendtime="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control invertwheel="0" rubberband="0" speedwheel="1" invertcontrol="1" lockedwheel="0" lockedkeyboard="0" contextvr="1" simulatemass="1" contextprojections="0" contextfullscreen="1" lockedkeyboardzoom="0" lockedmouse="0" dblclickfullscreen="0" sensitivity="8"/>
+  </panorama>
+  <panorama id="node6">
+    <input width="1520" levelingpitch="0" height="1520" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelbias="0.400" leveltilesize="510" levelbiashidpi="1.000" overlap="1">
+      <level width="1520" height="1520" preload="0" predecode="0"/>
+      <level width="760" height="760" preload="0" predecode="0"/>
+      <level width="380" height="380" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="3">
+      <start tilt="-2.88" fov="70.35" projection="4" pan="-156.38"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max scaletofit="1" tilt="90" fov="120" fovfisheye="360" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata title="2" tags="Panoramen" author="" info="" description="" heading="0" copyright="" comment="" nodeid="node6" longitude="" customnodeid="" datetime="11.10.2020 08:39" latitude="" source=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" textcolor="0x000000" background="1" height="20" backgroundalpha="1" borderradius="1" wordwrap="1" enabled="1" bordercolor="0x000000" textalpha="1" border="1" backgroundcolor="0xffffff" borderalpha="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="" tilt="-6.71" description="" url="" skinid="S2H1" target="_blank" id="Point01" pan="0.03"/>
+    </hotspots>
+    <media>
+      <image width="132" handcursor="0" rotz="0.000" stretch="1.000" tilt="-6.120" fov="2.000" height="131" clickmode="0" id="Element01" pan="-360.330" rotx="-12.000" roty="0.000">
+        <source url="media/2.png"/>
+      </image>
+      <sound startmutedmobile="0" tilt="13.480" pansize="10.000" loop="0" level="0.500" field="90.000" tiltsize="10.000" id="Element02" pan="-290.940" nodechangekeep="0" mode="2" ambientlevel="0.000">
+        <source url="media/Waldgerausche.mp3"/>
+      </sound>
+      <sound startmutedmobile="0" tilt="-49.710" pansize="10.000" loop="0" level="0.500" field="90.000" tiltsize="10.000" id="Element01" pan="-351.710" nodechangekeep="0" mode="2" ambientlevel="0.000">
+        <source url="media/Waldgerausche.mp3"/>
+      </sound>
+    </media>
+    <transition zoomout="0" zoomoutpause="1" zoomfov="20" zoomspeed="2" zoomin="0" zoomafteroutfov="20" blendcolor="0x000000" zoomafterinfov="90" enabled="1" type="crossdissolve" softedge="0" blendtime="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control invertwheel="0" rubberband="0" speedwheel="1" invertcontrol="1" lockedwheel="0" lockedkeyboard="0" contextvr="1" simulatemass="1" contextprojections="0" contextfullscreen="1" lockedkeyboardzoom="0" lockedmouse="0" dblclickfullscreen="0" sensitivity="8"/>
+  </panorama>
+  <panorama id="node7">
+    <input width="1520" levelingpitch="0" height="1520" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelbias="0.400" leveltilesize="510" levelbiashidpi="1.000" overlap="1">
+      <level width="1520" height="1520" preload="0" predecode="0"/>
+      <level width="760" height="760" preload="0" predecode="0"/>
+      <level width="380" height="380" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="3">
+      <start tilt="-3.15" fov="71.35" projection="4" pan="10.15"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max scaletofit="1" tilt="90" fov="120" fovfisheye="360" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata title="" tags="Panoramen" author="" info="" description="" heading="0" copyright="" comment="" nodeid="node7" longitude="" customnodeid="" datetime="11.10.2020 10:22" latitude="" source=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" textcolor="0x000000" background="1" height="20" backgroundalpha="1" borderradius="1" wordwrap="1" enabled="1" bordercolor="0x000000" textalpha="1" border="1" backgroundcolor="0xffffff" borderalpha="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="" tilt="12.46" description="" url="" skinid="S21H1" target="_blank" id="Point01" pan="-182.03"/>
+    </hotspots>
+    <media>
+      <image width="132" handcursor="0" rotz="0.000" stretch="1.000" tilt="12.010" fov="3.217" height="131" clickmode="0" id="Element01" pan="-182.480" rotx="0.000" roty="0.000">
+        <source url="media/21.png"/>
+      </image>
+      <sound startmutedmobile="0" tilt="18.850" pansize="10.000" loop="0" level="0.500" field="90.000" tiltsize="10.000" id="Element02" pan="-292.760" nodechangekeep="0" mode="2" ambientlevel="0.000">
+        <source url="media/Waldgerausche.mp3"/>
+      </sound>
+      <sound startmutedmobile="0" tilt="-53.330" pansize="10.000" loop="0" level="0.500" field="90.000" tiltsize="10.000" id="Element01" pan="-355.490" nodechangekeep="0" mode="2" ambientlevel="0.000">
+        <source url="media/Waldgerausche.mp3"/>
+      </sound>
+    </media>
+    <transition zoomout="0" zoomoutpause="1" zoomfov="20" zoomspeed="2" zoomin="0" zoomafteroutfov="20" blendcolor="0x000000" zoomafterinfov="90" enabled="1" type="crossdissolve" softedge="0" blendtime="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control invertwheel="0" rubberband="0" speedwheel="1" invertcontrol="1" lockedwheel="0" lockedkeyboard="0" contextvr="1" simulatemass="1" contextprojections="0" contextfullscreen="1" lockedkeyboardzoom="0" lockedmouse="0" dblclickfullscreen="0" sensitivity="8"/>
+  </panorama>
+  <panorama id="node8">
+    <input width="1520" levelingpitch="0" height="1520" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelbias="0.400" leveltilesize="510" levelbiashidpi="1.000" overlap="1">
+      <level width="1520" height="1520" preload="0" predecode="0"/>
+      <level width="760" height="760" preload="0" predecode="0"/>
+      <level width="380" height="380" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="3">
+      <start tilt="-1.73" fov="71.35" projection="4" pan="41.04"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max scaletofit="1" tilt="90" fov="120" fovfisheye="360" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata title="" tags="Panoramen" author="" info="" description="" heading="0" copyright="" comment="" nodeid="node8" longitude="" customnodeid="" datetime="24.09.2020 10:02" latitude="" source=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" textcolor="0x000000" background="1" height="20" backgroundalpha="1" borderradius="1" wordwrap="1" enabled="1" bordercolor="0x000000" textalpha="1" border="1" backgroundcolor="0xffffff" borderalpha="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="" tilt="-5.06" description="" url="" skinid="S22H1" target="_blank" id="Point01" pan="-125.56"/>
+    </hotspots>
+    <media>
+      <image width="132" handcursor="0" rotz="0.000" stretch="1.000" tilt="-3.950" fov="2.348" height="131" clickmode="0" id="Element01" pan="-125.440" rotx="0.000" roty="0.000">
+        <source url="media/22.png"/>
+      </image>
+      <sound startmutedmobile="0" tilt="16.320" pansize="10.000" loop="0" level="0.500" field="90.000" tiltsize="10.000" id="Element02" pan="-292.810" nodechangekeep="0" mode="2" ambientlevel="0.000">
+        <source url="media/Waldgerausche.mp3"/>
+      </sound>
+      <sound startmutedmobile="0" tilt="-56.490" pansize="10.000" loop="0" level="0.500" field="90.000" tiltsize="10.000" id="Element01" pan="-1.000" nodechangekeep="0" mode="2" ambientlevel="0.000">
+        <source url="media/Waldgerausche.mp3"/>
+      </sound>
+    </media>
+    <transition zoomout="0" zoomoutpause="1" zoomfov="20" zoomspeed="2" zoomin="0" zoomafteroutfov="20" blendcolor="0x000000" zoomafterinfov="90" enabled="1" type="crossdissolve" softedge="0" blendtime="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control invertwheel="0" rubberband="0" speedwheel="1" invertcontrol="1" lockedwheel="0" lockedkeyboard="0" contextvr="1" simulatemass="1" contextprojections="0" contextfullscreen="1" lockedkeyboardzoom="0" lockedmouse="0" dblclickfullscreen="0" sensitivity="8"/>
+  </panorama>
+  <masternode>
+    <userdata title="" tags="" author="" info="" description="" heading="0" copyright="" comment="" nodeid="master" longitude="" customnodeid="" datetime="" latitude="" source=""/>
+  </masternode>
+</tour>
